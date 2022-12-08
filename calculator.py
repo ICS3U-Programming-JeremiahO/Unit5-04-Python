@@ -50,7 +50,7 @@ def main():
                 )
                 print()
                 print(
-                    " The result of {} {} {} = {}".format(
+                    " The result of {} {} {} = {:.2f}".format(
                         first_number_float,
                         symbol_user,
                         second_number_float,
